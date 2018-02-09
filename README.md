@@ -6,4 +6,6 @@ Alpha-Blog is a rails app to practice navigation using the MVC model.
 
 Sounds boring. Let's try again.
 
-__This practice will not make you a 50x rails developer... but you might feel like one.__😬
+__This practice will not make you a 50x rails developer... but you might feel like one.__
+
+😬
