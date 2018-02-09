@@ -1,24 +1,9 @@
-# README
+<p align="center">
+  <img src="https://avatars3.githubusercontent.com/u/4223?s=400&v=4" alt="rails logo">
+</p>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Alpha-Blog is a rails app to practice navigation using the MVC model.
 
-Things you may want to cover:
+Sounds boring. Let's try again.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+__This practice will not make you a 50x rails developer... but you might feel like one.__😬
